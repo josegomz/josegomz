@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josegomz
 - 👀 I’m interested in developing desktop and web applications
-- 🌱 I’m currently learning spring boot with Angular && python with Django
+- 🌱 I’m currently learning PHP with Laravel 9
 - 💞️ I’m looking to collaborate on..
 - 📫 How to reach me josegomz.sa17@gmail.com
 
